@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Esther3000/Silvya-market.git/static/css/main.6f71bbbd.css",
+    "main.js": "/Esther3000/Silvya-market.git/static/js/main.3d590784.js",
+    "static/js/787.62b26828.chunk.js": "/Esther3000/Silvya-market.git/static/js/787.62b26828.chunk.js",
+    "index.html": "/Esther3000/Silvya-market.git/index.html",
+    "main.6f71bbbd.css.map": "/Esther3000/Silvya-market.git/static/css/main.6f71bbbd.css.map",
+    "main.3d590784.js.map": "/Esther3000/Silvya-market.git/static/js/main.3d590784.js.map",
+    "787.62b26828.chunk.js.map": "/Esther3000/Silvya-market.git/static/js/787.62b26828.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f71bbbd.css",
+    "static/js/main.3d590784.js"
+  ]
+}
